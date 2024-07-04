@@ -80,6 +80,13 @@ Make sure you have the following installed:
 
 Contributions are welcome! Fork the repository and create a pull request with your improvements.
 
-## License
+## Image
+![Account manage](https://github.com/ladat1107/PublishImage/blob/main/AZShop/1.jpg?raw=true)
+![Order manage](https://github.com/ladat1107/PublishImage/blob/main/AZShop/4.jpg?raw=true)
+![Order manage](https://github.com/ladat1107/PublishImage/blob/main/AZShop/2.jpg?raw=true)
+![Order manage](https://github.com/ladat1107/PublishImage/blob/main/AZShop/3.jpg?raw=true)
+![Order manage](https://github.com/ladat1107/PublishImage/blob/main/AZShop/5.jpg?raw=true)
+![Product detail](https://github.com/ladat1107/PublishImage/blob/main/AZShop/6.jpg?raw=true)
+![Home](https://github.com/ladat1107/PublishImage/blob/main/AZShop/7.jpg?raw=true)
 
-This project is licensed under the [MIT License](LICENSE).
+
